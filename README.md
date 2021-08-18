@@ -1,1 +1,1 @@
-# USGS-LIDAR-on-AgriTech-
+# USGS-LIDAR-on-AgriTech
