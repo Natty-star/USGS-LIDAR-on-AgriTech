@@ -4,12 +4,12 @@ This project tries to build a python package for AgriTech.This project aimed to 
 
 ##Package Installation
 
-pip install PDAL
+      pip install PDAL
 
-pip install geopandas
+      pip install geopandas
 
-pip install rasterio
+      pip install rasterio
 
-pip install laspy
+      pip install laspy
 
 
